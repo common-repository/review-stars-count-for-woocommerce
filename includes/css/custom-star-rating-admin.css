@@ -1,0 +1,5 @@
+form#mainform table.form-table tbody tr td.forminp.forminp-number {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+}
